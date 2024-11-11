@@ -73,10 +73,10 @@ nav{
     color: var(--white);
 }
 .main-content .intro-heading{
-    font-size: 50px;
+    font-size: 80px;
 }
 .main-content .main-heading{
-    font-size:110px;
+    font-size:50px;
     margin-top:-20px;
 
 }
